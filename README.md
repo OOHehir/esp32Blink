@@ -9,6 +9,7 @@ This application can be built and executed on QEMU as follows:
 ```
     source ../zephyrproject/.venv/bin/activate
     source ../zephyrproject/zephyr/zephyr-env.sh
+    source ../zephyrproject/zephyr/scripts/west_commands/completion/west-completion.bash
 ```
 
 #### Build:
